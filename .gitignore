@@ -3,6 +3,8 @@
 *.sqlite3
 *.pdf
 *.docx
+!models/
+!models/**/*.docx
 *.xlsx
 *.xls
 *.doc
