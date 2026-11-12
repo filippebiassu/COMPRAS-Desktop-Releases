@@ -1,0 +1,9 @@
+{
+    "sha256":  "7a2a31f27ecdb7d73f034d219a40c69549febf86ca7979bee2003ca330fdf6c9",
+    "version":  "0.3.0",
+    "package_name":  "COMPRAS-Desktop-v0.3.0-win-x64.zip",
+    "package_url":  "https://github.com/filippebiassu/COMPRAS-Desktop-Releases/releases/download/v0.3.0/COMPRAS-Desktop-v0.3.0-win-x64.zip",
+    "schema_version":  1,
+    "release_name":  "COMPRAS Desktop 0.3.0",
+    "notes":  "Versao estavel para Windows x64. Instalacao por usuario, atualizacoes verificadas e preservacao dos dados locais."
+}
