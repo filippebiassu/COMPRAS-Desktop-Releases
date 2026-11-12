@@ -1,0 +1,13 @@
+﻿.env
+.env.*
+*.sqlite3
+*.pdf
+*.docx
+*.xlsx
+*.xls
+*.doc
+*.pptx
+*.ppt
+*.pfx
+*.pem
+*.key
