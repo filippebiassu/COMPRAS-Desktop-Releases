@@ -2,6 +2,8 @@
 
 Distribuicao publica do COMPRAS Desktop: instalador, pacotes de versao e modelos oficiais liberados. O codigo-fonte permanece no repositorio privado.
 
+Baixe o instalador online: [COMPRAS-Instalador.exe](https://github.com/filippebiassu/COMPRAS-Desktop-Releases/releases/latest/download/COMPRAS-Instalador.exe).
+
 - Modelos oficiais: `models/`
 - Manifesto de modelos: `models/manifest.json`
 - Atualizacao estavel do app: `updates/latest.json` (publicado somente depois de build e testes)
