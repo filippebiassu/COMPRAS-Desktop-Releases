@@ -2,6 +2,16 @@
   "schema_version": 1,
   "catalog_version": "1",
   "base_url": "https://raw.githubusercontent.com/filippebiassu/COMPRAS-Desktop-Releases/main/models/",
-  "models": [],
+  "models": [
+    {
+      "id": "termo-aditivo-renovacao-contrato",
+      "name": "Modelo de termo aditivo de renovação contratual",
+      "category": "Termos aditivos",
+      "description": "Modelo reutilizável com bloco de assinaturas centralizado e sequencial.",
+      "version": "1",
+      "file": "Termos-aditivos/termo-aditivo-renovacao-contrato.docx",
+      "sha256": "72f061ea47d7a9fb64b12c951add3de9f0726d3b1ee5d5682472a3091adabefa"
+    }
+  ],
   "deleted_models": []
 }
